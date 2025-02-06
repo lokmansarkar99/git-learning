@@ -2,4 +2,8 @@ I am a text file
 
 This is second time editing
 
+
 This is an edit in feature-1 branch
+
+This is edit in feature-2 branch
+
